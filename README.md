@@ -1,14 +1,14 @@
 # SVG-Logo-Maker
 
-# Description
+## Description
 The goal of this project it's build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. The user will select a color, shape, and text for the logo, and automatically a SVG file will be generated.
 
-# Link to the video
+## Link to the video
 
-# How is it looks?
+## How is it looks?
 
 
-# Acceptance Criteria
+## Acceptance Criteria
 
 * GIVEN a command-line application that accepts user input
 * WHEN I am prompted for text
@@ -26,7 +26,7 @@ The goal of this project it's build a Node.js command-line application that take
 * THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
-# User Story
+## User Story
 
 _AS a freelance web developer
 <br>I WANT to generate a simple logo for my projects
