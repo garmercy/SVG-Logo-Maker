@@ -1,9 +1,9 @@
-# SVG-Logo-Maker :large_orange_diamond:  :large_blue_circle:
+# SVG-Logo-Maker :large_orange_diamond:  :large_blue_circle: :small_red_triangle:
 
 ## Description
 The goal of this project it's build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. The user will select a color, shape, and text for the logo, and automatically a SVG file will be generated.
 
-## Link to the video
+## Link to the video :cinema:
 
 ## How is it looks?
 
