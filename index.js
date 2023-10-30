@@ -34,7 +34,7 @@ inquirer
     {
       type: 'input',
       name: 'textColor',
-      message: 'Write a text color for your logo',
+      message: 'Write a text color keyword (OR a hexadecimal number) for your logo',
     },
     {
       type: 'list',
@@ -45,7 +45,7 @@ inquirer
     {
       type: 'input',
       name: 'shapeColor',
-      message: 'Write a shape color for your logo',
+      message: 'Write a shape color keyword (OR a hexadecimal number) for your logo',
     },
   ])
 
@@ -56,7 +56,7 @@ inquirer
     }else {
       const readmeFile = generateSVG(answers);
       fs.writeFile('./examples/logo.svg', logoSvgString, readmeFile, (err) => {
-        err ? console.log(err) : console.log("Generated logo.svg!");
+        err ? console.log(err) : console.log("Generated logo.svg");
       });
     }
   });
