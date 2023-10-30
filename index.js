@@ -8,7 +8,7 @@ function generateSVG(answers) {
   //logoSvgString using svg code it's connected with prompt and will contain the final svg string on line 23 
   logoSvgString = '<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><g>';
 
-  //shapeResult will be generated depending of shape color options by the user. They are three options: triangle,square or circle.
+  //shapeResult will be generated depending of shape color options by the user. They are three options: square, circle or triangle.
   let shapeResult;
   if (answers.shape === "Triangle") {
     shapeResult = new Triangle();
