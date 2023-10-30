@@ -5,8 +5,9 @@ The goal of this project it's build a Node.js command-line application that take
 
 ## Link to the video :cinema:
 https://drive.google.com/file/d/1DKyCkB6vrvG03kzliFV1y1Pq0737XpL-/view?usp=sharing
-## How is it looks?
 
+## How is it looks?
+![hi](https://github.com/garmercy/SVG-Logo-Maker/assets/138730100/bca1e19f-e393-4de8-bc2a-350a9705a544)
 
 ## Acceptance Criteria
 
